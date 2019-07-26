@@ -1,0 +1,15 @@
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManagerTestProject.deps.json
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManagerTestProject.runtimeconfig.json
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManagerTestProject.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManagerTestProject.dll
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManagerTestProject.pdb
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManager1.2.dll
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\bin\Debug\netcoreapp1.1\PaymentManager1.2.pdb
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\obj\Debug\netcoreapp1.1\PaymentManagerTestProject.csprojResolveAssemblyReference.cache
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\obj\Debug\netcoreapp1.1\PaymentManagerTestProject.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\obj\Debug\netcoreapp1.1\PaymentManagerTestProject.AssemblyInfo.cs
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\obj\Debug\netcoreapp1.1\PaymentManagerTestProject.dll
+C:\Users\arupade\source\repos\PaymentManager1.2\PaymentManagerTestProject\obj\Debug\netcoreapp1.1\PaymentManagerTestProject.pdb
